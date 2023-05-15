@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mfarrell23
+- 👋 Hi, I’m michelle
 - 👀 I’m interested in soccer, and my family
-- 🌱 I’m currently learning to code as a beginner
-- 💞️ I’m looking to collaborate on bootcamp assignments
+- 🌱 I’m currently looking for employment. 
+- 💞️ I’m looking to get connected and grow my knowledge
 - 📫 How to reach me soocaplaya04@gmail.com
 
 <!---
